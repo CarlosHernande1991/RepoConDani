@@ -1,2 +1,7 @@
 Bogota
+<<<<<<< HEAD
 Aqui escribe Daniela 
+=======
+
+Aqui escribe Carlos
+>>>>>>> 033cca0862bbecc3365dffdea8fffdd738352269
